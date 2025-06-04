@@ -2,7 +2,7 @@
 Coca-Cola is one of the most iconic global beverage brands, and its stock has a long trading history on U.S. financial markets. This project analyzes a dataset containing Coca-Cola's historical stock data from 1962 to 2022. The dataset includes daily records of adjusted closing price, opening price, high, low, and trading volume. The analysis was conducted using Python in a Jupyter Notebook environment. The primary objective was to explore long-term trends, price movements, volume fluctuations, and statistical patterns through various visualizations and regression techniques to understand the stock’s performance and investor behavior over six decades.
 
 ## Dataset used
-Dataset = ""
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Coca_Cola_Stock_Analysis/blob/main/Coca-Cola_stock_history.csv"
 
 ## Objectives of the project
 1) Perform exploratory data analysis (EDA) on Coca-Cola's historical stock data
@@ -34,13 +34,13 @@ The following Python libraries were used during the data cleaning, exploration, 
 7) Datetime – for converting and formatting date/time values during time series processing
 
 ## Python file (Jupyter Notebook)
-Python File = ""
+Python File = "https://github.com/SubhankarMukherjee-portfolio/Coca_Cola_Stock_Analysis/blob/main/Coca-Cola_stock_history.ipynb"
 
 ## PowerPoint presentation
-PPT File = ""
+PPT File = "https://github.com/SubhankarMukherjee-portfolio/Coca_Cola_Stock_Analysis/blob/main/Coca_Cola_Stock%20_Analysis_Presentation.pptx"
 
 ## PowerPoint presentation pdf file
-PDF File = ""
+PDF File = "https://github.com/SubhankarMukherjee-portfolio/Coca_Cola_Stock_Analysis/blob/main/Coca_Cola_Stock%20_Analysis_Presentation.pdf"
 
 ## Final Observations & Storyline
 1) The Coca-Cola stock has shown impressive long-term growth, with the adjusted closing price rising from just $0.037 in 1962 to over $65 by 2022. This upward trend, confirmed by strong regression metrics (R² = 0.757), highlights the company’s consistent market performance and investor confidence over six decades.
